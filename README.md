@@ -5,3 +5,4 @@
 Lightweight Dense Convolutional (LDC) neural network for edge detection.
 
 ![alt text](https://github.com/Techolution/AI-Snippets/blob/LDC-Edge-Detection/reference/LDC%20Comparison.png?raw=true)
+
